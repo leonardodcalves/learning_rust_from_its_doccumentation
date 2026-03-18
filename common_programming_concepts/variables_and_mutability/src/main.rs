@@ -23,6 +23,10 @@ fn main() {
     spaces = spaces.len();
 }
 
+*/
+
+// Data Types
+/*
 fn main() {
     let guess: u32 = "42".parse().expect("Not a number!");
 }
@@ -33,7 +37,8 @@ fn main() {
       let y: f32 = 3.0; // specified f32 length
 
       println!("x: {x}. y: {y}.");
-}*/
+}
+*/
 
 // Numeric Operations
 
@@ -74,9 +79,12 @@ fn main() {
 */
 
 // The Character Type
-
+/*
 fn main() {
     let c = 'z';
     let z: char = 'Z'; // explicit type annotation
     print!("c is {c}\nZ is {z}.\n");
 }
+*/
+
+// The Tuple Type
